@@ -1,9 +1,8 @@
 ## Hi there 👋
---------
+
 I'm Zaira, a fourth-year Software Engineering student at the University of Calgary!
 
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="30" height="30"/>
