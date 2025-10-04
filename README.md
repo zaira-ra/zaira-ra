@@ -2,8 +2,6 @@
 --------
 I'm Zaira, a fourth-year Software Engineering student at the University of Calgary!
 
-* 🔭 I’m currently working on building a simple portfolio website :)
-* 🌱 I’m currently learning Unity and OpenGL
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
